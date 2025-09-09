@@ -22,7 +22,7 @@ key figures, and the full project report (PDF).
 │  ├─ RandomForest.py
 │  ├─ default_decision_tree_model.pkl
 │  └─ optimized_decision_tree_model.pkl
-├─ images/                      # Figures from report (≤5)
+├─ images/                      # Figures from report
 │  ├─ accuracy_over_epochs.png
 │  ├─ loss_over_epochs.png
 │  ├─ confusion_matrix_ann.png
